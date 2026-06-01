@@ -31,13 +31,13 @@ El flujo de trabajo se divide en 3 agentes especializados:
 * **Proceso:** Analiza la consulta SQL final y las reglas que se activaron. 
 * **Salida:** Redacta un resumen para el usuario donde no solo entrega las canciones, sino que **explica el razonamiento** detrás de la selección (ej. *"Seleccioné estas canciones de Jazz porque, aunque pediste algo relajante, apliqué un filtro de alta 'acústica' y baja 'energía' para asegurar que te ayuden a concentrarte"*).
 
-## 🛠️ Stack Tecnológico (En Desarrollo)
+## Stack Tecnológico (En Desarrollo)
 * **Lenguaje:** Python
 * **Base de Datos:** SQLite / Datos extraídos de Kaggle.
 * **IA / LLM:** (Por definir - ej. Gemini API / LangChain / Ollama).
 * **Interfaz:** (Por definir - ej. Streamlit / Terminal).
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 *(Esta sección se irá documentando conforme avance el desarrollo de los módulos y dependencias).*
 
 ---
