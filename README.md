@@ -42,6 +42,4 @@ El flujo de trabajo se divide en 3 agentes especializados:
 
 ---
 *Desarrollo continuo con commits diarios como evidencia de progreso.*
-
-Mañana sigo
-Tuve que ir a un funeral, mañana ahora sí le sigo bien
+Sigo con progreso bajo, pero ya encontraré tiempo de hacer más
