@@ -44,4 +44,5 @@ El flujo de trabajo se divide en 3 agentes especializados:
 *Desarrollo continuo con commits diarios como evidencia de progreso.*
 
 Estuve trabajando en el Prototipado 
+Sigo trabajando en el prototipado
 
