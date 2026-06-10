@@ -43,4 +43,6 @@ El flujo de trabajo se divide en 3 agentes especializados:
 ---
 *Desarrollo continuo con commits diarios como evidencia de progreso.*
 
-Mañana sigo
+## Prototipo de Interfaz (UI/UX)
+Diseño inicial del panel de control donde interactúan los 3 agentes.
+![Prototipo inicial](assets/Protipado_SE.png)
