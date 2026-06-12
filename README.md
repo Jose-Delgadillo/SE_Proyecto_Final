@@ -40,7 +40,7 @@ El flujo de trabajo se divide en 3 agentes especializados:
 ## Instalación y Uso
 *(Esta sección se irá documentando conforme avance el desarrollo de los módulos y dependencias).*
 
-sigo trabajando, pero ahorita estoy con otro proyecto
+Hoy en la noche sigo con el proyecto, solo que tengo un monton de cosas ahorita
 
 ## Prototipo de Interfaz (UI/UX)
 Diseño inicial del panel de control donde interactúan los 3 agentes.
